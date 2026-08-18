@@ -1,7 +1,7 @@
-# Tauri + Vanilla
+#Time table management app
 
-This template should help get you started developing with Tauri in vanilla HTML, CSS and Javascript.
+this is going to be an app which creates time tables on its own based on already inputted data which can be in the form of notes , task reminders. (etc , scope will be expanded as the project it further developed.)
 
-## Recommended IDE Setup
+The app is made on the TAURI framework (vanilla template) , it is a light weight framework which uses rust backend to run frontend as if it were a native app 
 
-- [VS Code](https://code.visualstudio.com/) + [Tauri](https://marketplace.visualstudio.com/items?itemName=tauri-apps.tauri-vscode) + [rust-analyzer](https://marketplace.visualstudio.com/items?itemName=rust-lang.rust-analyzer)
+this is currently in a very early stage of development
