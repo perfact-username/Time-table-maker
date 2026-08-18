@@ -4,4 +4,6 @@ this is going to be an app which creates time tables on its own based on already
 
 The app is made on the TAURI framework (vanilla template) , it is a light weight framework which uses rust backend to run frontend as if it were a native app 
 
+src contains all the frontend files.
+
 this is currently in a very early stage of development
